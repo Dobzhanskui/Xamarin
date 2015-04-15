@@ -1,0 +1,17 @@
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Release\Jone.dll
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Release\Jone.pdb
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Release\Jone.Jone.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Release\Jone.Jone-Signed.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\Jone.dll
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\Jone.pdb
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\android\bin\Jone.Jone.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\layout\main.xml
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\values\strings.xml
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\drawable-mdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\res\drawable-xxxhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\R.cs.flag
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\uploadflags.txt
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Release\Jone.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Debug\Jone.dll
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Debug\Jone.pdb
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Debug\Jone.dll.mdb
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Debug\Jone.Jone.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\bin\Debug\Jone.Jone-Signed.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\Jone.dll
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\Jone.pdb
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\android\bin\Jone.Jone.apk
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\layout\main.xml
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\values\strings.xml
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\R.cs.flag
+C:\Users\Админ\Documents\Projects\Jone\Jone\obj\Debug\uploadflags.txt
